@@ -1,4 +1,0 @@
-pandas
-google-cloud-bigquery
-google-cloud-core
-google-auth
